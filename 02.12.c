@@ -18,6 +18,8 @@ int main()
     printf("\n");
     printf("Sum = \t\t%d \tDifference = \t%d \n", sum , dif);
     printf("Product = \t%d \tDivision = \t%d \n", product, div);
+    
+    // NOTE: \t is an escape sequence which insert a tab space, try experimenting yourself. :)
 
     return 0;
 }
