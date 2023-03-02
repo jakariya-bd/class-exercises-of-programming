@@ -1,5 +1,7 @@
+// I just copied from the internet :)
+
 #include <stdio.h>
-#include <time.h>
+#include <time.h> // for time() and ctime() functions ... I think 
 
 int main()
 {
